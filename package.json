@@ -1,0 +1,25 @@
+{
+  "name": "simple-express-server",
+  "version": "1.0.0",
+  "description": "This assignment helps in exploration of Express module in NodeJs, you are open to refer all the documentations",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"nodemon express.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pqnitish/Simple-Express-Server.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pqnitish/Simple-Express-Server/issues"
+  },
+  "homepage": "https://github.com/pqnitish/Simple-Express-Server#readme",
+  "dependencies": {
+    "express": "^4.19.2",
+    "nodemon": "^3.1.4"
+  }
+}
